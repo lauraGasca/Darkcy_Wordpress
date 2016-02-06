@@ -35,9 +35,9 @@ td,
 th,
 .textwidget { 
 	font-size:14px; 
-	line-height:1.8em;
+	line-height:1.7em;
 	font-family:'Oxygen',Verdana, Geneva, sans-serif; 
-	font-weight: 300;
+	font-weight: 600;
 	word-wrap: break-word
 }
 
@@ -50,7 +50,7 @@ blockquote,
 td, 
 th,
 .textwidget { 
-	color:#616161;
+	color:#3F3F3F;
 }
  
 h1,
@@ -183,7 +183,7 @@ a:focus {
 	text-decoration:none;
 	border:none;
 	outline:none;
-	background:#991d1d;
+	background:#606060;
 	color:#fff;
 }
 
@@ -273,7 +273,7 @@ a.btn {
 }
 #logo a:hover {
 	text-decoration:none;
-	color:#991d1d;
+	color:#606060;
 	border-bottom:none;
 }
 
@@ -333,7 +333,7 @@ nav#mainmenu ul li.current_page_item > a,
 nav#mainmenu ul li.current-menu-parent > a,
 nav#mainmenu ul li.current_page_ancestor > a,
 nav#mainmenu ul li.current-menu-ancestor > a {
-	color:#991d1d;
+	color:#606060;
 }
 
 nav#mainmenu .sf-sub-indicator {
@@ -345,7 +345,7 @@ nav#mainmenu .sf-sub-indicator {
 nav#mainmenu ul ul {
 	display:none;
 	position: absolute;
-	top:120px;
+	top:80px;
 	left:0;
 	background:#262626 ;
 	z-index:1000;
@@ -503,7 +503,7 @@ nav#mainmenu ul ul li ul:before {
 #sidebar a:hover ,
 .bottom a:hover ,
 #footer a:hover {
-	color:#991d1d;
+	color:#606060;
 	text-decoration:none;
 }
 
@@ -593,8 +593,8 @@ nav#mainmenu ul ul li ul:before {
 }
 
 #back-to-top a:hover {
-	background:#991d1d;
-	border-color:#991d1d;
+	background:#606060;
+	border-color:#606060;
 	text-decoration:none;
 }
 
@@ -706,7 +706,7 @@ nav#mainmenu ul ul li ul:before {
 	color:#616161;
 }
 .pin-article h3.title a:hover {
-	color:#991d1d;
+	color:#606060;
 }
 
 .pin-article .attachment p {
@@ -805,7 +805,7 @@ article blockquote p {
 	color:#616161;
 }
 .entry-info a:hover {
-	color:#991d1d;
+	color:#606060;
 }
 
 .tags {
@@ -975,7 +975,7 @@ h3#reply-title small,
 .comment-form input[type=text],
 .comment-form textarea {
 	padding: 15px 2%;
-	background:#fafafa;
+	background:#dbdbdb;
 	width: 95%;
 	margin:0 0 15px 0;
 	-webkit-border-radius: 0;
@@ -1021,7 +1021,7 @@ h3#reply-title small,
 #searchform input[type=submit]:hover,
 .contact-form input[type=submit]:hover,
 .comment-form input[type=submit]:hover {
-	background:#991d1d;
+	background:#606060;
 	color:#fff;
 	text-decoration:none;
 }
@@ -1456,7 +1456,7 @@ article .overlay-image {
 
 #wp-calendar #today,
 #wp-calendar #today a {
-	background:#991d1d;
+	background:#606060;
 
 }
 
@@ -1522,7 +1522,7 @@ tr:nth-child(2n+2) {
 
 .tagcloud a:hover {
 	color: #fff;
-	background: #991d1d;
+	background: #606060;
 }
 
 #sidebar .tagcloud a {
@@ -1553,7 +1553,7 @@ tr:nth-child(2n+2) {
 .socials a:hover {
 	border-bottom:none !important;
 	text-decoration:none;
-	background:#991d1d;
+	background:#606060;
 	color:#fff;
 }
 
