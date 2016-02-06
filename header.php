@@ -2,20 +2,21 @@
 <html <?php language_attributes(); ?>>
 <head>
    
-<meta charset="<?php bloginfo( 'charset' ); ?>" />
-<meta http-equiv="Content-Type" content="<?php bloginfo('html_type'); ?>; charset=<?php bloginfo('charset'); ?>" />
+    <meta charset="<?php bloginfo( 'charset' ); ?>" />
+    <meta http-equiv="Content-Type" content="<?php bloginfo('html_type'); ?>; charset=<?php bloginfo('charset'); ?>" />
 
-<link rel="stylesheet" href="<?php bloginfo('stylesheet_url'); ?>" media="screen" />
-<link href='https://fonts.googleapis.com/css?family=The+Girl+Next+Door' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="<?php bloginfo('stylesheet_url'); ?>" media="screen" />
+    <link href='https://fonts.googleapis.com/css?family=The+Girl+Next+Door' rel='stylesheet' type='text/css'>
+    <meta name="google-site-verification" content="CaZgZyRkmNBV81Z8OsSMWq4iwf8qd53aaqdOelM2CaQ" />
 
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.2, user-scalable=yes" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.2, user-scalable=yes" />
 
-<!--[if IE 8]>
-    <script src="<?php echo get_template_directory_uri(); ?>/inc/scripts/html5.js" type="text/javascript"></script>
-    <script src="<?php echo get_template_directory_uri(); ?>/inc/scripts/selectivizr-min.js" type="text/javascript"></script>
-<![endif]-->
+    <!--[if IE 8]>
+        <script src="<?php echo get_template_directory_uri(); ?>/inc/scripts/html5.js" type="text/javascript"></script>
+        <script src="<?php echo get_template_directory_uri(); ?>/inc/scripts/selectivizr-min.js" type="text/javascript"></script>
+    <![endif]-->
 
-<?php wp_head(); ?>
+    <?php wp_head(); ?>
 
 </head>
 
