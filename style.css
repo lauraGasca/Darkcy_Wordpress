@@ -1412,7 +1412,7 @@ article .overlay-image {
 }
 
 .wp-post-image {
-	width:auto;
+	width:100%;
 	height:auto;
 }
 
