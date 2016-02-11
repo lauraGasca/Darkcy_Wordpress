@@ -3,7 +3,11 @@
 	<section id="sidebar" class="span4">
 		<div class="row">
 			
-			<?php if ( is_active_sidebar('side_sidebar_area')) {
+			<?php
+
+            dynamic_sidebar('side_sidebar_area');
+
+            if ( is_active_sidebar('side_sidebar_area')) {
             
                 dynamic_sidebar('side_sidebar_area');
             
