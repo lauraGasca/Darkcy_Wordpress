@@ -3,14 +3,14 @@
 	<section id="sidebar" class="span4">
 		<div class="row">
 			
-			<?php if ( is_active_sidebar()) {
+			<?php if ( is_active_sidebar('side_sidebar_area')) {
             
-                dynamic_sidebar();
+                dynamic_sidebar('side_sidebar_area');
             
             } else { 
                 
                 the_widget( 'WP_Widget_Calendar',
-				array("title"=> __('Calendario','novalite')),
+				array("title"=> __('Calendar','novalite')),
 					array('before_widget' => '<div class="pin-article span4"><div class="article">',
 						  'after_widget'  => '</div></div>',
 						  'before_title'  => '<h3 class="title">',
