@@ -5,7 +5,7 @@
                 <div class="row">
                     <div class="span12">
         
-                        <h1><?php _e( '<span>Search </span> results for', 'novalite' ) ?> <strong><?php echo $s; ?> </strong></h1>
+                        <h1><?php _e( '<span>Buscar </span> resultados para', 'novalite' ) ?> <strong><?php echo $s; ?> </strong></h1>
                     
                     </div>
                 </div>
@@ -39,15 +39,15 @@
                         <div class="pin-article <?php echo novalite_template('span'); ?>">
                             <article class="article">
         
-                            <h1 class="title"><?php _e( 'Not Found',"novalite" ) ?></h1>
+                            <h1 class="title"><?php _e( 'No se encontro',"novalite" ) ?></h1>
                                 
-                            <p> <?php _e( 'You can repeat your search with the following form.',"novalite" ) ?> </p>
+                            <p> <?php _e( 'Puedes repetir tu busqueda en el siguiente formulario.',"novalite" ) ?> </p>
                         
                             <section class="contact-form searchform">
                                 <form method="get" id="searchform" action="<?php echo home_url( '/' ); ?>">
                                      <div>
-                                     <input type="text" placeholder="<?php _e( 'Search here', 'novalite' ) ?>"  name="s" id="s" class="input-search"/>
-                                     <input type="submit" id="searchsubmit" class="button-search" value="<?php _e( 'Search', 'novalite' ) ?>" />
+                                     <input type="text" placeholder="<?php _e( 'Busca aqui', 'novalite' ) ?>"  name="s" id="s" class="input-search"/>
+                                     <input type="submit" id="searchsubmit" class="button-search" value="<?php _e( 'Buscar', 'novalite' ) ?>" />
                                      </div>
                                 </form>
                             <div class="clear"></div>  

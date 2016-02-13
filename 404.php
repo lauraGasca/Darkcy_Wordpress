@@ -4,7 +4,7 @@
 	<div class="container">
     	<div class="row">
             <div class="span12">
-				<h1><?php _e( 'Not found','novalite'); ?> </h1>
+				<h1><?php _e( 'No encontrado','novalite'); ?> </h1>
             </div>        
 		</div>
     </div>
@@ -18,7 +18,7 @@
 
 			<article class="article">
             
-				<p><?php _e( 'Sorry, no posts matched your criteria','novalite'); ?> </p>
+				<p><?php _e( 'Lo sentimos, ningun post corresponde al criterio de busqueda','novalite'); ?> </p>
  
 			</article>
 

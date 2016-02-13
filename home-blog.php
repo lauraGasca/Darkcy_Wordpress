@@ -24,7 +24,7 @@
                         
                         <article class="article">
         
-                            <h1 class="title"><?php _e( 'Not found',"novalite" ) ?></h1>           
+                            <h1 class="title"><?php _e( 'No se encontro',"novalite" ) ?></h1>
                             <p><?php _e( 'Lo sentimos, no se encontraron posts ',"novalite" ) ?></p>
                          
                         </article>

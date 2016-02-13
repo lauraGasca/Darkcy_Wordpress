@@ -38,7 +38,7 @@ function nova_comment ($comment, $args, $depth) {
       </header>
 
       <?php if ($comment->comment_approved == '0') : ?>
-         <br /><em><?php _e('Your comment is awaiting approval.','novalite') ?></em>
+         <br /><em><?php _e('Tu comentario esta esperando aprovación.','novalite') ?></em>
       <?php endif; ?>
 	  
 	  <?php comment_text() ?>

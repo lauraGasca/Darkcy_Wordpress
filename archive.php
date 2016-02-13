@@ -25,11 +25,11 @@
 				
 				<?php  } else if (is_category()) { ?>
                 
-                    <p><?php _e( 'Category','novalite'); ?> : <?php single_cat_title(); ?> </p>
+                    <p><?php _e( 'Categoria','novalite'); ?> : <?php single_cat_title(); ?> </p>
 
 				<?php  } else if (is_month()) { ?>
 
-                    <p><?php _e( 'Archive for','novalite'); ?> : <?php the_time('F, Y'); ?> </p>
+                    <p><?php _e( 'Archivo de','novalite'); ?> : <?php the_time('F, Y'); ?> </p>
 
                 <?php } ?>
                 
@@ -65,7 +65,7 @@
                         <article class="article">
         
                             <h1 class="title"><?php _e( 'Not found',"novalite" ) ?></h1>           
-                            <p><?php _e( 'Sorry, no posts matched into ',"novalite" ); echo ":".single_cat_title(); ?></p>
+                            <p><?php _e( 'Lo sentimos, no se encontraron entradas ',"novalite" ); echo ":".single_cat_title(); ?></p>
                          
                         </article>
                         
