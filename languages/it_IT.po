@@ -17,7 +17,7 @@ msgstr ""
 "X-Poedit-SearchPath-0: .\n"
 
 #: 404.php:7 archive.php:67 home-blog.php:27
-msgid "Not found"
+msgid "No encontrado"
 msgstr "Contenuto mancante"
 
 #: 404.php:21
@@ -592,7 +592,7 @@ msgid "<span>Search </span> results for"
 msgstr "<span>Risultati </span> della ricerca per"
 
 #: search.php:42
-msgid "Not Found"
+msgid "No Encontrado"
 msgstr "Contenuto non trovato"
 
 #: search.php:44
