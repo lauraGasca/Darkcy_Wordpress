@@ -21,7 +21,7 @@ function novalite_after_content_function() {
 		the_tags( '<footer class="line"><span class="entry-info"><strong>'.__( 'Tags','novalite').':</strong> ', ', ', '</span></footer>' );
 
 		if ( get_post_format() )  {
-			echo '<footer class="line"><span class="entry-info"><strong>'.__( 'Post type','novalite').':</strong> '.ucfirst(get_post_format()).'</span></footer>';
+			echo '<footer class="line"><span class="entry-info"><strong>'.__( 'Tipo de Post','novalite').':</strong> '.ucfirst(get_post_format()).'</span></footer>';
 		} 
 
 		comments_template();

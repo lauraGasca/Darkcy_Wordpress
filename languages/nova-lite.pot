@@ -67,11 +67,11 @@ msgid "%1$s at %2$s"
 msgstr ""
 
 #: comments.php:35
-msgid "(Edit)"
+msgid "(Editar)"
 msgstr ""
 
 #: comments.php:41
-msgid "Your comment is awaiting approval."
+msgid "Tu comentario esta en espera de ser aprovado."
 msgstr ""
 
 #: comments.php:57
@@ -103,7 +103,7 @@ msgstr ""
 
 #: core/admin/customize/customize.php:18
 #: core/admin/customize/customize.php:389
-msgid "Yes"
+msgid "Si"
 msgstr ""
 
 #: core/admin/customize/customize.php:29 core/admin/customize/customize.php:30
