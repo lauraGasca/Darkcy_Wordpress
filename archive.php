@@ -65,7 +65,7 @@
                         <article class="article">
         
                             <h1 class="title"><?php _e( 'Not found',"novalite" ) ?></h1>           
-                            <p><?php _e( 'Lo sentimos, no se encontraron entradas ',"novalite" ); echo ":".single_cat_title(); ?></p>
+                            <p><?php _e( 'Lo sentimos, no se encontraron entradas en ',"novalite" ); echo ":".single_cat_title(); ?></p>
                          
                         </article>
                         

@@ -564,7 +564,7 @@ msgid "<span>Search </span> results for"
 msgstr ""
 
 #: search.php:42
-msgid "Not Found"
+msgid "No se encontro"
 msgstr ""
 
 #: search.php:44
