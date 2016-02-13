@@ -17,7 +17,7 @@ msgstr ""
 "X-Poedit-SearchPath-0: .\n"
 
 #: 404.php:7 archive.php:67 home-blog.php:27
-msgid "Not found"
+msgid "No se encontro"
 msgstr ""
 
 #: 404.php:21
