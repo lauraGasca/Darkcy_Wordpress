@@ -56,6 +56,10 @@ table tbody .alt td {
     color: #4D1A75;
 }
 
+table td, table th {
+    padding: 9px 13px;
+}
+
 p{
 	text-align : justify;
 }
