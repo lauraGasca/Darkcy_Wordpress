@@ -26,14 +26,14 @@ body.custombody {
    =============================================== */
 
 table{
-	width: 100%;
-	border: 1px solid #652299;
+    width: 100%;
+    border: 1px solid #652299;
 }
 
 table thead th{
-	background: -moz-linear-gradient(center top, #652299 5%, #4D1A75 100%);
-	color: #FFFFFF;
-	font-weight: bold;
+    background: -moz-linear-gradient(center top, #652299 5%, #4D1A75 100%);
+    color: #FFFFFF;
+    font-weight: bold;
 }
 
 table tbody td:first-child {
@@ -56,12 +56,12 @@ table tbody .alt td {
     color: #4D1A75;
 }
 
-table td, table th {
+table td {
     padding: 9px 13px;
 }
 
 p{
-	text-align : justify;
+    text-align : justify;
 }
 
 p, 
