@@ -27,6 +27,7 @@ body.custombody {
 
 table{
 	width: 100%;
+	border: 1px solid #652299;
 }
 
 table thead th{
@@ -48,6 +49,11 @@ table tbody td {
     border-left: 1px solid #E7BDFF;
     font-size: 14px;
     font-weight: normal;
+}
+
+table tbody .alt td {
+    background: #F4E3FF;
+    color: #4D1A75;
 }
 
 p{
