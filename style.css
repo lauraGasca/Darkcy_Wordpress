@@ -25,6 +25,9 @@ body.custombody {
    TYPOGRAPHY
    =============================================== */
 
+p{
+	text-align : justify;
+}
 
 p, 
 li, 
