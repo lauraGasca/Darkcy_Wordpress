@@ -25,6 +25,16 @@ body.custombody {
    TYPOGRAPHY
    =============================================== */
 
+table{
+	width: 100%;
+}
+
+table thead th{
+	background: -moz-linear-gradient(center top, #652299 5%, #4D1A75 100%);
+	color: #FFFFFF;
+	font-weight: bold;
+}
+
 p{
 	text-align : justify;
 }
